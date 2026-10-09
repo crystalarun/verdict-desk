@@ -31,6 +31,17 @@ Sister repos:
 - [verdict-eval](https://github.com/crystalarun/verdict-eval) — golden cases and a CI gate
 - [verdict-router](https://github.com/crystalarun/verdict-router) — cheap vs expensive model path (later)
 
+## Run the demo
+
+```bash
+python -m pip install -e .
+python -m verdict_desk.demo
+```
+
+Open http://127.0.0.1:8765 — six buttons, live asks, no API key.
+
+Static snapshot (no install): [docs/demo.html](https://github.com/crystalarun/verdict-desk/blob/main/docs/demo.html)
+
 ## Quick start
 
 Python 3.11+. No API key.
