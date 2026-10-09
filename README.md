@@ -11,6 +11,8 @@ It is a small citation engine for metric definitions, data contracts, access rul
 
 I built this as a public portfolio piece. I lead BI and analytics (KPI standards, Snowflake modelling, customer analytics, governance). The point is to show how I would constrain an AI assistant in that job — not to pretend I shipped a foundation model.
 
+Portfolio notes: [case study](docs/CASE_STUDY.md) · [CV lines](docs/CV_BLURB.md) · [GitHub profile README](docs/GITHUB_PROFILE.md)
+
 ## Why this shape
 
 In a real analytics org the expensive failure is not "the model was 3% less fluent". It is:
